@@ -69,7 +69,6 @@ class RegistrationController extends Controller
             'created_at'    => date('Y-m-d h:i:s'),
             'created_by'    => 1,
             'updated_at'    => date('Y-m-d h:i:s'),
-            'updated_by'    => 1, 
             'updated_by'    => 1,
         ];
         //dd($user_data);
